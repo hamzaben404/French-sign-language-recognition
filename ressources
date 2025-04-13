@@ -1,0 +1,26 @@
+installationna faire
+
+installer les dependances python
+
+pip install -r requirements.txt
+
+lancer l'application python app.py
+npm install axios
+
+
+
+
+
+
+
+
+
+
+python3 -m venv env
+source env/bin/activate  # Sur Windows: env\Scripts\activate
+pip install flask tensorflow joblib flask-cors
+
+
+
+
+
